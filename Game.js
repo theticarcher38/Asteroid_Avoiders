@@ -82,8 +82,5 @@ function startNewGame() {
     ticksSurvived = 0;
 }
 
-function playerBounds() {
-
-}
 
 
