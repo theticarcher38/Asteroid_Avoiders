@@ -23,7 +23,8 @@ ol {
 canvas {
     border: 1px solid black;
     cursor: none;
-    background: #C0C0C0;
+    background-image: url('Space_1.jpeg');
+    background-size: 100%;
 }
 
 @font-face {
